@@ -1,0 +1,9 @@
+.nav-title{
+    color: rgb(13, 13, 77);
+    font-size: 35px;
+    font-weight: 600;
+    text-decoration:none;
+}
+.text-bold, a{
+    font-weight: 500;
+}

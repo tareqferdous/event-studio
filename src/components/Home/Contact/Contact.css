@@ -1,0 +1,43 @@
+.contact{
+    background-image: url(../../../images/banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat center;
+    position: relative;
+    z-index: 1;
+}
+.contact::before{
+    position: absolute;
+    content: "";
+    top:0;
+    width: 100%;
+    height: 100%;
+    background: rgb(12, 11, 27);
+    opacity: .8;
+    z-index: -1;
+}
+.contact-content{
+    padding-top: 50px;
+}
+.contact input{
+    background: transparent;
+    border: 1px solid lightseagreen;
+}
+
+.contact textarea{
+    background: transparent;
+    
+}
+
+.contact p{
+    color:floralwhite;
+}
+.contact h3{
+    color:lightseagreen;
+}
+
+#message{
+    margin-top:20px;
+    border: none;
+    border-radius: 4px;
+    border: 1px solid lightseagreen;
+}
