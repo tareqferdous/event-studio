@@ -1,3 +1,3 @@
-Project Name: Event Studio (Full Stack Website)
+# Event Studio
 
-Project Funtionality: Event Studio is a website whwre anyone can visit to booking any photography event. There are six sections in home page. In those, service and user review sections are dynamic. An admin can control all over the system through dashboard. An admiin can add or delete any event from homepage. User can review and place there order from this website.
+A Full-Stack event managing website where anyone can hire a photographer for any events from service section. Client can write a review or rate our services. Admin has the full control all over the systems. Client can pay online using credit card and enjoy awesome service
